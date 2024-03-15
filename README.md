@@ -1,7 +1,4 @@
 # OSS
 OSS개발_2024_03_08
 
-## heading 2
-### heading 3
-
-@chunsejiu
+오늘 레파지토리 복제하는 방법을 배웠다 엄청 알찬 수업이였다.
